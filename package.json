@@ -1,7 +1,7 @@
 {
   "name": "luauthwrapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API Wrapper for the lua whitelisting service called luauth written in node.js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotRllyRn/LuauthWrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NotRllyRn/LuauthWrapper/issues"
+  },
+  "homepage": "https://github.com/NotRllyRn/LuauthWrapper#readme"
 }
